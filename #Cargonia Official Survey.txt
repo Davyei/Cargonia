@@ -1,0 +1,43 @@
+#Cargonia Official Survey
+[color=#c98620]▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀▀
+═══════════════════════════════════════[/color][color=#424990][color=#b18644]
+ █▀▀▀▀█          
+▐                [head=1]Cargonia Official  [/head]
+ █▄▄▄▄█    [italic]Cargo Survey ☻ [/head][/color]
+[/color][color=#1b777a]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#8f1b07]▼[/color]▲[color=#b18644]  [italic]     
+     Oh Glorious Cargonia, May you be prosperous and free.        ═══════════════════════════════════════[/color][/color]
+[bold][color=#3d3e43]◌ NAME: [/color]   [italic][color=#8a2525]INSERT NAME HERE[/color][/italic]
+                  ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ AGE:[/color][italic]         [color=#8a2525]INSERT AGE HERE[/color][/italic][/color]
+               ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+
+[color=#3d3e43]◌ CURRENT JOB: [/color][italic]    [color=#8a2525]INSERT OCCUPATION HERE[/color][/italic]
+                                 ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ Please rate your experience with Cargonia from 1-10 with 10 being the highest: [/color][italic]       
+      
+         [color=#8a2525]INSERT EXPERIENCE HERE[/color][/italic]
+[/bold]
+[bold][color=#3d3e43]◌ Please state why you have given this rating: [/color][italic]       
+      
+         [color=#8a2525]INSERT REASON HERE[/color][/italic]
+[/bold]
+
+[bold][color=#3d3e43]◌ What is your relationship to our nation of Cargonia  
+     from the following:
+     \[  ] Ally         \[  ] Unaligned  
+     \[  ] Threat   \[ ] Prefer not to say
+     
+[bold][color=#3d3e43]◌ Which nation do you com from?:
+     \[  ] Scienestaris    \[  ] Atmosia & Engineerum \[  ] Servartis
+  
+     \[  ] The Tide        \[  ] Medicallis           \[  ] Securitum
+
+     \[  ] Command/CentComm \[ ○ ] Other
+
+     Other Dept:[/color]   [color=#8a2525]Fill if applicable[/color][/italic]
+                              ‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾‾
+[color=#3d3e43]◌ Have you answered all questions honestly?
+     \[ ] Yes       \[ ] No         [/color]
+
+[/bold][italic][color=#aaaaaa]*The Cargonia Leaders holds the right to change Cargonia's Survey Results at any time.
+If you are not satisfied with the Cargonian Treatment of your Order or items, please contact 1 (800) CAR-GO
